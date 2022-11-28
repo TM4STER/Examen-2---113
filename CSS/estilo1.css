@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+}
+body{
+    background: #79a5cc;
+}
+header{
+    background-color:  rgba(216, 218, 233, 0.871);
+    height: 10%;
+    text-align: center;
+}
+h1{
+    color: black;
+}
+section{
+    background-color: rgba(184, 184, 184, 0.872);
+    height: 140%;
+footer{
+   height:5%;
+}
